@@ -1,1 +1,21 @@
+# Dependency directories
 node_modules/
+vendor/
+
+# System files
+.env
+.env.*
+.idea
+.vscode
+storage/framework/
+storage/logs/
+
+# Compiled files
+/public/mix-manifest.json
+/public/build
+
+# IDE files
+*.suo
+*.pdb
+*.tmp
+.DS_Store
